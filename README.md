@@ -52,5 +52,5 @@
 
 ### Who do I talk to? ###
 
-* HanMing Lee email: hanming@wustl.edu
+
 * Shuo Wu email: wushuo7@outlook.com
